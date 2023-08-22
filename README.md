@@ -6,7 +6,7 @@ Welcome to my Coding Creativity Repository! This space is dedicated to documenti
 
 ## About Me
 
-I'm [Your Name], a passionate coder and technology enthusiast. This repository serves as a visual diary of my progress and evolution as a programmer. I believe that code is a canvas, and each project is a stroke of creativity that contributes to my growth in the coding landscape.
+I'm Hasini, a passionate coder and technology enthusiast. This repository serves as a visual diary of my progress and evolution as a programmer. I believe that code is a canvas, and each project is a stroke of creativity that contributes to my growth in the coding landscape.
 
 ## What You'll Find Here
 
@@ -24,7 +24,7 @@ I welcome fellow coders, developers, and enthusiasts to explore this repository.
 
 ## Contact Me
 
-Connect with me through [LinkedIn](https://www.linkedin.com/in/yourusername) or [Twitter](https://twitter.com/yourusername). Feel free to reach out if you have questions, suggestions, or just want to chat about all things coding!
+Connect with me through [YouTube]() . Feel free to reach out if you have questions, suggestions, or just want to chat about all things coding!
 
 Thank you for stopping by and being a part of my coding journey. Remember, code is a language that transcends barriers, and each keystroke is a step towards innovation.
 
