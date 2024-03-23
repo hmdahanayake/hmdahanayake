@@ -24,7 +24,7 @@ I welcome fellow coders, developers, and enthusiasts to explore this repository.
 
 ## Contact Me
 
-Connect with me through [YouTube](https://www.youtube.com/@CodingWithNexus) . Feel free to reach out if you have questions, suggestions, or just want to chat about all things coding!
+Connect with me through [YouTube]([https://www.youtube.com/@CodingWithNexus](https://www.youtube.com/@Coding_With_Nexus)) . Feel free to reach out if you have questions, suggestions, or just want to chat about all things coding!
 
 Thank you for stopping by and being a part of my coding journey. Remember, code is a language that transcends barriers, and each keystroke is a step towards innovation.
 
